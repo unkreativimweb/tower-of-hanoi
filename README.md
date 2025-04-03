@@ -13,7 +13,7 @@ This repository contains an implementation of the Tower of Hanoi puzzle. The Tow
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Vito/tower-of-hanoi.git
+    git clone https://github.com/unkreativimweb/tower-of-hanoi.git
     ```
 2. Navigate to the project directory and open index.html in your browser
 3. Use the slider to select the number of disks
